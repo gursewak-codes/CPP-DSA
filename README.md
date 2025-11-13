@@ -26,5 +26,5 @@ All codes are organized topic-wise for easy revision and growth.
 ---
 
 ### 🧩 Resources
-- [Coder Army YouTube](https://www.youtube.com/@CoderArmy)
+- [Coder Army YouTube](https://www.youtube.com/@CoderArmy9)
 - [Striver’s Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
