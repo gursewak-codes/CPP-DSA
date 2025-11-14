@@ -1,3 +1,8 @@
+
+/* PRINT ADULT IF AGE IS MORE THAN OR EQUALS TO 18 OTHERWISE PRINT MINOR */
+
+
+
 #include<iostream>
 using namespace std;
 
