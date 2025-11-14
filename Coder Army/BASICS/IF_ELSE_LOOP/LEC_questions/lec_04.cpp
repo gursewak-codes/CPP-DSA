@@ -11,7 +11,7 @@ int main()
     cout<<"enter your age : ";
     cin>>n;
 
-    if(n=>18){
+    if(n>=18){
         cout<<"ADULT";
 
     }
