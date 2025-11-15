@@ -1,4 +1,4 @@
-/* 1__print greater value */
+  /* 1__print greater value  */
 
 
 #include<iostream>
@@ -27,7 +27,7 @@ int main()
 }
 
 
-/* 2__print month acc to its corespomding month number  */
+/* 2__print month acc to its corespomding month number */  
 
 
 #include<iostream>
@@ -99,6 +99,33 @@ int main()
     {
         cout<<"december";
     }
+
+
+}
+
+
+/* 3__print "yes" is age is more than 12 and less than 65 otherwise print "no"*/
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    int age;
+    cout<<"ENTER YOUR AGE :  ";
+    cin>>age;
+
+    if(age<12)
+    cout<<"YES";
+
+    else if(age>65)
+    cout<<"YES";
+
+    else
+    cout<<"NO";
+
+
+
 
 
 }
