@@ -83,7 +83,7 @@ int main()
 }  
 
 
- // 3__print  fibonacci series till nth number.
+ // 4__print  fibonacci series till nth number.
 #include<iostream>
 using namespace std;
 
